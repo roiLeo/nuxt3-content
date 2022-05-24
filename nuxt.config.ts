@@ -4,7 +4,7 @@ import { defineNuxtConfig } from 'nuxt'
 export default defineNuxtConfig({
   modules: [
     '@nuxt/content',
-    '@nuxtjs/tailwindcss',
+    'nuxt-windicss',
     '@nuxtjs/color-mode'
   ],
   // https://color-mode.nuxtjs.org
