@@ -1,11 +1,11 @@
-[![Content Wind](https://github.com/Atinux/content-wind/raw/main/public/cover.jpg)](https://content-wind.nuxt.dev)
+[![Content Wind](https://github.com/roiLeo/nuxt3-content/raw/main/public/cover.jpg)](https://content-wind.nuxt.dev)
 
 # Content Wind
 
-A lightweight Nuxt template to write a Markdown driven website, based on [Nuxt Content](https://content.nuxtjs.org), [TailwindCSS](https://tailwindcss.com) and [Iconify](https://iconify.design).
+A lightweight Nuxt template to write a Markdown driven website, based on [Nuxt Content](https://content.nuxtjs.org), [WindiCSS](https://windicss.org/) and [Iconify](https://iconify.design).
 
 - [Demo & Docs](https://content-wind.nuxt.dev)
-- [Play online](https://stackblitz.com/github/Atinux/content-wind?file=content%2F1.index.md)
+- [Play online](https://stackblitz.com/github/roiLeo/nuxt3-content?file=content%2F1.index.md)
 
 ## Features
 
@@ -39,12 +39,12 @@ npm install
 Start the development server on http://localhost:3000
 
 ```bash
-npm run dev
+yarn dev
 ```
 
 ## Deployment
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAtinux%2Fcontent-wind) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Atinux/content-wind)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FroiLeo%2Fnuxt3-content) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/roiLeo/nuxt3-content)
 
 
 ### Static Hosting
@@ -52,7 +52,7 @@ npm run dev
 Pre-render the website to be deployed on any static hosting:
 
 ```bash
-npm run generate
+yarn generate
 ```
 
 The `dist/` directory is ready to be deployed (symlink to `.output/public`), [learn more on Nuxt docs](https://v3.nuxtjs.org/guide/deploy/static-hosting).
@@ -62,7 +62,7 @@ The `dist/` directory is ready to be deployed (symlink to `.output/public`), [le
 Build the application for production:
 
 ```bash
-npm run build
+yarn build
 ```
 
 Start the server in production:
