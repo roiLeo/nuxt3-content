@@ -14,7 +14,7 @@ defineProps({
         <Icon class="w-5 h-5 text-yellow-400" aria-hidden="true" :name="icon" />
       </div>
       <div>
-        <h3 class="m-0 text-base font-medium text-yellow-800">
+        <h3 class="!m-0 !text-base !font-medium !text-yellow-800">
           <Markdown :use="$slots.title" unwrap="p" />
         </h3>
         <div class="mt-2 text-sm text-yellow-700">
