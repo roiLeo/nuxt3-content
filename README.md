@@ -1,10 +1,10 @@
-[![Content Wind](https://github.com/roiLeo/nuxt3-content/raw/main/public/cover.jpg)](https://content-wind.nuxt.dev)
+[![Content Wind](https://github.com/roiLeo/nuxt3-content/raw/main/public/cover.jpg)](https://nuxt3-content.netlify.app/)
 
 # Content Wind
 
 A lightweight Nuxt template to write a Markdown driven website, based on [Nuxt Content](https://content.nuxtjs.org), [WindiCSS](https://windicss.org/) and [Iconify](https://iconify.design).
 
-- [Demo & Docs](https://content-wind.nuxt.dev)
+- [Demo & Docs](https://nuxt3-content.netlify.app/)
 - [Play online](https://stackblitz.com/github/roiLeo/nuxt3-content?file=content%2F1.index.md)
 
 ## Features
@@ -20,7 +20,7 @@ A lightweight Nuxt template to write a Markdown driven website, based on [Nuxt C
 
 ## Usage
 
-Take a look at [content-wind.nuxt.dev](https://content-wind.nuxt.dev) for the complete documentation.
+Take a look at [nuxt3-content.netlify.app](https://nuxt3-content.netlify.app/) for the complete documentation.
 
 ## Setup
 
